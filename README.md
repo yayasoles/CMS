@@ -4,4 +4,5 @@ it includes
   communication Between Deans 
   communication Between deans 
   communication between Advisors
+   communication between Instructors
   the communication is vertical and horizontal 
